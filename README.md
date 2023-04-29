@@ -1,5 +1,4 @@
-﻿
-[HaSpeeDe3@Evalita 2023](http://di.unito.it/haspeede3)
+# [HaSpeeDe3@Evalita 2023](http://di.unito.it/haspeede3)
 
 The HaSpeeDe 3 (Hate Speech Detection) shared task will be organised within Evalita 2023, the 8th evaluation campaign of Natural Language Processing and Speech tools for Italian, which will be held in Parma on the 7th-8th September 2023.
 
@@ -40,10 +39,12 @@ This proposal focuses on Hate Speech in Twitter proposing two tracks and 2 sub-t
 - **Task A** - **Political Hate Speech Detection**: a binary classification task aimed at determining whether the message contains Hate Speech or not
   - **Textual**: participants can only use the provided textual content of the tweets from PolicyCorpusXL for development.
   - **Contextual**: participants can employ for development the textual content of the tweets plus contextual information that will be given to them (i.e., metadata of the tweet and author, friends, retweets, and reply relations)
-- **Task B - Cross-domain Hate Speech Detection**: a binary classification task with test data from different domains. The main objective is to explore cross-domain hate speech detection in two evaluation settings 
-  - **XPoliticalHate**: the test set will consist of tweets from PolicyCorpusXL (the same as in Task A), but participants can use any kind of external data from other hate domains
+- **Task B - Cross-domain Hate Speech Detection**: a binary classification task with test data from different domains. The main objective is to explore cross-domain hate speech detection in two evaluation settings. 
+  - **XPoliticalHate**: the test set will consist of tweets from PolicyCorpusXL (the same as in Task A)
   - **XReligiousHate**: the task here will be recognizing religious hate, therefore the test set will consist of tweets from the ReligiousHate corpus
-
+  
+  For dealing withTask B, participants can use any kind of external data, even from other hate domains (obviously, participants can also use textual and contextual PolicyCorpusXL development data)
+  
 We decided to provide **four** separate official rankings, one for each sub-task.
 
 **Two runs for each sub-task are available.**
