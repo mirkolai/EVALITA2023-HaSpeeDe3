@@ -92,11 +92,11 @@ The only admitted values for the column label are 0 or 1
 
 ~~**7th February 2023**: development data available to participants~~
 
-**30th April 2023**: [CFI closes](https://www.evalita.it/campaigns/evalita-2023/cfi/)
+~~**30th April 2023**: [CFI closes](https://www.evalita.it/campaigns/evalita-2023/cfi/)~~
 
-**7th May 2023:** test data available to participants
+~~**7th May 2023:** test data available to participants~~
 
-**7th – 14th May 2023**: evaluation windows and collection of participants results
+**12th – 19th May 2023**: evaluation windows and collection of participants results
 
 **30th May 2023**: assessment returned to participants
 
