@@ -86,6 +86,7 @@ The header of the file have to include the following two columns:
 - label
 
 The only admitted values for the column label are 0 or 1
+
 The two subtasks "A" and the subtask "B XPoliticalHate" have to exclusively contains test_politics tweets, whereas the subtask "B XReligiousHate" have to exclusively contains test_religious tweets
 
 #
